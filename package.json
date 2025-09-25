@@ -1,0 +1,24 @@
+{
+  "name": "task_3",
+  "version": "1.0.0",
+  "description": "\"for completeting task\"",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpita211/task_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpita211/task_3/issues"
+  },
+  "homepage": "https://github.com/Arpita211/task_3#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^5.1.0"
+  }
+}
